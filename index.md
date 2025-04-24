@@ -2,4 +2,5 @@
 ## Not so big
 ### Getting Worse
 ###### Pinheader
-![sigh](https://github.com/user-attachments/assets/fbbd5cae-aa66-4066-ae63-a734d86b58da)
+![George](https://github.com/user-attachments/assets/a9edb601-5f20-473f-847b-01ec5264a93a)
+
