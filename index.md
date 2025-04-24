@@ -7,3 +7,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Invent Super weapon
+- [ ] Destroy World
+- [ ] Clean Bathroom
